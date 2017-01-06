@@ -1,4 +1,6 @@
-#Sources: from https://github.com/mlaloux/My-Python-GIS_StackExchange-answers/blob/master/Python%20Script%20examples%20for%20geoprocessing%20shapefiles%20without%20using%20arcpy.md
+#Sources: from mlaloux
+
+Link: https://github.com/mlaloux/My-Python-GIS_StackExchange-answers/blob/master/Python%20Script%20examples%20for%20geoprocessing%20shapefiles%20without%20using%20arcpy.md
 There are 4 main ways to create a stand-alone Python code using QGIS environment and variables:
 1. via commands in the Python console (ok)
 2. via Python scripts in Processing or with the ScritRunner plugin of Gary Sherman (is this Python scripts inside QGIS?)
