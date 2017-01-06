@@ -1,3 +1,4 @@
+Create stand-alone Pyqgis
 #Sources: from mlaloux
 
 Link: https://github.com/mlaloux/My-Python-GIS_StackExchange-answers/blob/master/Python%20Script%20examples%20for%20geoprocessing%20shapefiles%20without%20using%20arcpy.md
